@@ -1,0 +1,15 @@
+{
+  "name": "weavingbirds",
+  "version": "1.0.0",
+  "description": "Weaving Birds Webpage",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist/weavingbirds"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://weavingbirds.github.io/weavingbirds",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
